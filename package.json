@@ -1,0 +1,15 @@
+{
+  "name": "delta",
+  "version": "0.0.1",
+  "description": "Delta Smart contract for erc20 token",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "author": "Yasir Iqbal",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "truffle-hdwallet-provider": "0.0.5"
+  }
+}
